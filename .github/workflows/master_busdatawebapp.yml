@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'busdatawebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_916f5ebe8aa04383bd1da01160ee9ec6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_30a4fc34b02f48f5a20a84a53cf7bb74 }}
         package: .
